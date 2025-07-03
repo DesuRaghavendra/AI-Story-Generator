@@ -1,0 +1,13 @@
+1. Node.js and npm
+2.Project Dependencies
+	npm install express @huggingface/inference
+3.Project Structure
+
+AI Story generator
+│
+├── public/                 
+│   ├── index.html
+│   └── style.css
+│
+├── server.js               
+├── package.json                   
